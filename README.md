@@ -268,6 +268,9 @@ black src/ app/
 flake8 src/ app/
 ```
 
+#### תמונה לדוגמה
+<img width="3679" height="1743" alt="image" src="https://github.com/user-attachments/assets/27cbc6ef-6c49-435d-81a3-9d4110dbfc26" />
+
 ### 📝 רישוי
 
 רישיון MIT - שימוש חופשי עם ציון מקורות הנתונים.
