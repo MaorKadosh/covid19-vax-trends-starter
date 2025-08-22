@@ -6,6 +6,7 @@
 - מומלץ לצרף קרדיט גם ל‑**Our World in Data** שהינו מקור הנתונים הראשוני שאותו Kaggle משכפל.
 
 > ⚠️ הפרויקט מיועד להצגה מקצועית לתפקיד ראש צוות נתונים/BI: מבנה רפוזיטורי נקי, קוד ETL, בדיקות, אפליקציית Streamlit להצגה, והנחיות לבניית דאשבורד ב‑Power BI.
+<img width="3679" height="1743" alt="image" src="https://github.com/user-attachments/assets/590a255b-4632-4586-90af-74edf11bfd35" />
 
 ## מבנה הפרויקט
 ```
